@@ -1,0 +1,1 @@
+lista_rijeci = ['Python', 'olovka', 'računalo', 'banana']
